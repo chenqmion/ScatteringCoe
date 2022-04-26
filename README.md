@@ -11,7 +11,7 @@ This repository contains all the codes for generating and analyzing the data of 
 
 * **HangerType.py**, **NecklaceType.py**, and **CrossType.py** contain examples for three types of resonators. The corresponding results are **Fig_hanger.pdf**, **Fig_necklace.pdf**, **Fig_cross.pdf**.
 
-* **HangerType_Chain.py** and **NecklaceType_Chain.py** contain examples for two types of resonator crystals. The corresponding results are **Fig_hanger_chain.pdf**, **Fig_necklace_chain.pdf**, **Fig_cross.pdf**.
+* **HangerType_Chain.py** and **NecklaceType_Chain.py** contain examples for two types of resonator crystals. The corresponding results are **Fig_hanger_chain.pdf** and **Fig_necklace_chain.pdf**.
 
 * **Toolkit_Characterization.py** contains the step by step recipe for characterizing a general resonator. Here, we assume that we are measuring the reflection response of a symmetric necklace-type &lambda;/2 resonator. To run the code, one needs to load the measured complex-valued scattering response to the array "s" with the corresponding measurement frequencies to the array "f".  
 
