@@ -1,8 +1,8 @@
-# Scattering Coefficients
+# Scattering Coe(ficients
 
 ## Related works:
-* The scattering coefficients of superconducting microwave resonators: I. Transfer-matrix approacch [(arXiv:2109.07762)](https://arxiv.org/abs/2109.07762)
-* The scattering coefficients of superconducting microwave resonators: II. System-bath approach [(arXiv:2109.07766)](https://arxiv.org/abs/2109.07766)
+* Scattering coefficients of superconducting microwave resonators: I. Transfer-matrix approacch [[Phys. Rev. B 106, 214505 (2022)]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.214505)
+* Scattering coefficients of superconducting microwave resonators: II. System-bath approach [[Phys. Rev. B 106, 214506 (2022)]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.214506)
 
 ## Description:
 This repository contains all the codes for generating and analyzing the data of the works mentioned above. Given a circuit, it generates the scattering coefficients. Given the scattering coefficients, it corrects distortions and provides a full characterization of the resonator. 
