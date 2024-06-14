@@ -20,4 +20,4 @@ This repository contains all the codes for generating and analyzing the data of 
 * **Data_necklace_lamb2_asymmetry.npy** is fake data of a necklace-type &lambda;/2 resonator, which is numerically generated for crosschecking the results. The characterization result is **Fig_characterization.pdf**.
 
 ## Acknowledgement:
-We are delighted if you find this projects helpful to your own study. Feel free to contact us if you have questions, suggestions, criticisms, etc. You are free to copy, share, and build on this project without notifying the authors. Citing our publications are appreciated but not required. 
+We are delighted if you find this project helpful to your own study. Feel free to contact us if you have questions, suggestions, criticisms, etc. You are free to copy, share, and build on this project without notifying the authors. Citing our publications is appreciated but not required. 
